@@ -2,6 +2,6 @@
 
 # What is this?
 古き懐かしきサイト(復刻)
-<n>更新は最新サイトより不定期です
+<br>更新は最新サイトより不定期です
 # Bug&report
 [here](https://misskey.niri.la/@SHINANOMAI)
