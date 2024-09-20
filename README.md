@@ -1,6 +1,7 @@
 # Welcome WAKASAGI website Repository!!!
 
 # What is this?
-サイト。不定期更新。
+古き懐かしきサイト(復刻)
+更新は最新サイトより不定期です
 # Bug&report
-[here](https://submarin.online/@samesameshark)
+[here](https://misskey.niri.la/@SHINANOMAI)
