@@ -1,4 +1,4 @@
-# Welcome WAKASAGI website Repository!!!
+# Welcome SHINANOMAI website_classic Repository!!!
 
 # What is this?
 古き懐かしきサイト(復刻)
